@@ -1,0 +1,23 @@
+# Dependency directories.
+node_modules
+
+# VS Code
+.vscode
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Runtime Data
+pids
+*.pid
+*.seed
+
+# Compiled bynary addons
+build/Release
+
+# Debug log from npm
+npm-debug.log
